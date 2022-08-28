@@ -1,6 +1,6 @@
-package com.thiago.app.service;
-import com.thiago.app.model.Notification;
-import com.thiago.app.repository.NotificationRepository;
+package com.thiago.notification.service;
+import com.thiago.notification.model.Notification;
+import com.thiago.notification.repository.NotificationRepository;
 import com.thiago.clients.notification.NotificationRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;

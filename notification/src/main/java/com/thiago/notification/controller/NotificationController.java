@@ -1,6 +1,6 @@
-package com.thiago.app.controller;
+package com.thiago.notification.controller;
 
-import com.thiago.app.service.NotificationService;
+import com.thiago.notification.service.NotificationService;
 import com.thiago.clients.notification.NotificationRequest;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

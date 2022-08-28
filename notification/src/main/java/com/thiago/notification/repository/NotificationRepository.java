@@ -1,6 +1,6 @@
-package com.thiago.app.repository;
+package com.thiago.notification.repository;
 
-import com.thiago.app.model.Notification;
+import com.thiago.notification.model.Notification;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

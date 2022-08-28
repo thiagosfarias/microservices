@@ -1,4 +1,4 @@
-package com.thiago.app.model;
+package com.thiago.notification.model;
 
 import lombok.*;
 

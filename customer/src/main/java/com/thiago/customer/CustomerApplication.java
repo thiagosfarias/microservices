@@ -8,7 +8,8 @@ import org.springframework.context.annotation.PropertySource;
 
 @SpringBootApplication(
         scanBasePackages = {
-                "com.thiago.customer"
+                "com.thiago.customer",
+                "com.thiago.amqp"
         }
 )
 @EnableFeignClients(
