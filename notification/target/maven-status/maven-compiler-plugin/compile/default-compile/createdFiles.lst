@@ -1,0 +1,6 @@
+com/thiago/app/repository/NotificationRepository.class
+com/thiago/app/service/NotificationService.class
+com/thiago/app/model/Notification$NotificationBuilder.class
+com/thiago/app/controller/NotificationController.class
+com/thiago/app/NotificationApplication.class
+com/thiago/app/model/Notification.class

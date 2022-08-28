@@ -1,0 +1,4 @@
+com/thiago/clients/notification/NotificationRequest.class
+com/thiago/clients/fraud/FraudClient.class
+com/thiago/clients/notification/NotificationClient.class
+com/thiago/clients/fraud/FraudCheckResponse.class

@@ -1,0 +1,6 @@
+com/thiago/app/FraudApplication.class
+com/thiago/app/model/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/thiago/app/service/FraudCheckService.class
+com/thiago/app/repository/FraudCheckHistoryRepository.class
+com/thiago/app/model/FraudCheckHistory.class
+com/thiago/app/controller/FraudCheckHistoryController.class

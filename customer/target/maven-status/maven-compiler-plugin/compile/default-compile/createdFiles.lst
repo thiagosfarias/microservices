@@ -1,0 +1,7 @@
+com/thiago/customer/CustomerApplication.class
+com/thiago/customer/model/Customer$CustomerBuilder.class
+com/thiago/customer/model/Customer.class
+com/thiago/customer/service/CustomerService.class
+com/thiago/customer/repository/CustomerRepository.class
+com/thiago/customer/controller/CustomerController.class
+com/thiago/customer/model/record/CustomerRegistrationRequest.class
